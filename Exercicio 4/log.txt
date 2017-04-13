@@ -1,0 +1,99 @@
+iteracao 0
+ pid: 2549 execution time: 0 s
+ total execution time: 0 s
+iteracao 1
+ pid: 2555 execution time: 2 s
+ total execution time: 2 s
+iteracao 2
+ pid: 2559 execution time: 4 s
+ total execution time: 6 s
+iteracao 3
+ pid: 2562 execution time: 2 s
+ total execution time: 8 s
+iteracao 4
+ pid: 2580 execution time: 3 s
+ total execution time: 11 s
+iteracao 5
+ pid: 2607 execution time: 3 s
+ total execution time: 14 s
+iteracao 6
+ pid: 2610 execution time: 0 s
+ total execution time: 14 s
+iteracao 7
+ pid: 2603 execution time: 26 s
+ total execution time: 40 s
+iteracao 8
+ pid: 2671 execution time: 0 s
+ total execution time: 40 s
+iteracao 9
+ pid: 2684 execution time: 0 s
+ total execution time: 40 s
+iteracao 10
+ pid: 2682 execution time: 24 s
+ total execution time: 64 s
+iteracao 11
+ pid: 2688 execution time: 29 s
+ total execution time: 93 s
+iteracao 12
+ pid: 2763 execution time: 208 s
+ total execution time: 301 s
+iteracao 13
+ pid: 2968 execution time: 0 s
+ total execution time: 301 s
+iteracao 14
+ pid: 2965 execution time: 2 s
+ total execution time: 303 s
+iteracao 15
+ pid: 3048 execution time: 0 s
+ total execution time: 303 s
+iteracao 16
+ pid: 3236 execution time: 0 s
+ total execution time: 303 s
+iteracao 17
+ pid: 3263 execution time: 0 s
+ total execution time: 303 s
+iteracao 18
+ pid: 3303 execution time: 0 s
+ total execution time: 303 s
+iteracao 19
+ pid: 3422 execution time: 0 s
+ total execution time: 303 s
+iteracao 20
+ pid: 3732 execution time: 0 s
+ total execution time: 303 s
+iteracao 21
+ pid: 3758 execution time: 0 s
+ total execution time: 303 s
+iteracao 22
+ pid: 3797 execution time: 1 s
+ total execution time: 304 s
+iteracao 23
+ pid: 3444 execution time: 0 s
+ total execution time: 304 s
+iteracao 24
+ pid: 2118 execution time: 3 s
+ total execution time: 307 s
+iteracao 25
+ pid: 2141 execution time: 2 s
+ total execution time: 309 s
+iteracao 26
+ pid: 2143 execution time: 3 s
+ total execution time: 312 s
+iteracao 27
+ pid: 2146 execution time: 2 s
+ total execution time: 314 s
+iteracao 28
+ pid: 2185 execution time: 35 s
+ total execution time: 349 s
+iteracao 29
+ pid: 2191 execution time: 39 s
+ total execution time: 388 s
+iteracao 30
+ pid: 2194 execution time: 41 s
+ total execution time: 429 s
+iteracao 31
+ pid: 2197 execution time: 40 s
+ total execution time: 469 s
+iteracao 32
+ pid: 2462 execution time: 33 s
+ total execution time: 502 s

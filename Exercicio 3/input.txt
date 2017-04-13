@@ -1,0 +1,17 @@
+fibonacci 10000
+
+fibonacci 10001
+fibonacci 10000
+fibonacci 10001
+ibonacci 10000
+fibonacci 10001
+fibonacci 1000
+a
+fibonacci 1 2
+fibonacci 100000
+fibonacci 10000
+fibonacci 1000
+fibonacci 100
+fibonacci 10
+a 
+exit
